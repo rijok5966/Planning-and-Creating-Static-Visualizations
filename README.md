@@ -1,5 +1,4 @@
-# Projects---Data-Visualization-Principles
-Projects based on Data Visualization Principles
+# Projects---Data-Visualization Principles
 
 Project Description
 Background Visualisation software, such as Tableau and Power B.I, implement visualisation principles in the default creation of visuals. The defaults used in these programs are generic and have cultural and context biases that are typically not useful in the specific application of your visuals. For example, if you are designing a visual targeted towards an environmental group, the program visual defaults need to be changed to suit a “green” focus. 
