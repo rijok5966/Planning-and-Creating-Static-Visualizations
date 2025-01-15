@@ -1,4 +1,4 @@
-# Projects---Data-Visualization Principles
+# Planning and Creating Static Visualizations
 
 Project Description:
 
